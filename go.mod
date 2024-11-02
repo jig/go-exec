@@ -1,4 +1,4 @@
-module github.com/jig/go-aruco
+module github.com/jig/go-exec
 
 go 1.23
 
